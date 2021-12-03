@@ -1,0 +1,14 @@
+.button {
+	background-color: rgb(65, 131, 215);
+	color:  white;
+	border-radius: 4px;
+	padding:  10px;
+	border:  solid;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.button:hover {
+  background-color: rgb(72, 113, 247);
+  color: white;
+}
